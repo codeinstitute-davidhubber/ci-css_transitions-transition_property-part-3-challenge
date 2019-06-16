@@ -1,0 +1,19 @@
+a
+{
+    font-family: arial;
+    font-size: 1.6em;
+    font-weight: bolder;
+
+    transition-timing-function: ease-in-out;
+    transition-duration: 1s;
+    transition-property: color;
+    text-decoration: none;
+    text-transform: uppercase;
+
+    color: tomato;
+}
+
+a:hover
+{
+    color: #000;
+}
