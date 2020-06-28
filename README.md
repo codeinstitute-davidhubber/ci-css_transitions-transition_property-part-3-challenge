@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci-css_transitions-transition_property-part-3-challenge/'**
+#### project url: **'https://codeinstitute-davidhubber.github.io/ci-css_transitions-transition_property-part-3-challenge/'**
 ***
 title: **'Code Institiute - CSS Transitions - Transition Property - Part 3 - Challenge'**
 
